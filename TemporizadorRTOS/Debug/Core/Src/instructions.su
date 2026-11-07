@@ -1,0 +1,7 @@
+../Core/Src/instructions.c:5:13:instruction_read	24	static
+../Core/Src/instructions.c:39:6:instruction_execute	24	static
+../Core/Src/instructions.c:50:6:do_set_timer	16	static
+../Core/Src/instructions.c:62:6:do_start_timer	16	static
+../Core/Src/instructions.c:67:6:do_pause_timer	16	static
+../Core/Src/instructions.c:72:6:do_reset_timer	16	static
+../Core/Src/instructions.c:81:6:do_timer_status	136	static

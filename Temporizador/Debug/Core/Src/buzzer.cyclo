@@ -1,0 +1,4 @@
+../Core/Src/buzzer.c:3:8:buzzer_new	1
+../Core/Src/buzzer.c:8:6:buzzer_on	1
+../Core/Src/buzzer.c:14:6:buzzer_off	1
+../Core/Src/buzzer.c:20:6:buzzer_is_on	1

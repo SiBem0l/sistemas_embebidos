@@ -1,0 +1,5 @@
+../Core/Src/buffer.c:5:8:buffer_new	40	static
+../Core/Src/buffer.c:10:6:buffer_is_full	16	static
+../Core/Src/buffer.c:15:6:buffer_clear	16	static
+../Core/Src/buffer.c:21:6:buffer_store_byte	16	static
+../Core/Src/buffer.c:31:7:buffer_get_data	16	static

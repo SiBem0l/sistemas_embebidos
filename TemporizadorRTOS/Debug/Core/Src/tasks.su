@@ -1,0 +1,5 @@
+../Core/Src/tasks.c:3:6:refreshTimer	32	static
+../Core/Src/tasks.c:30:6:displayShowDigit	40	static
+../Core/Src/tasks.c:59:6:countPressed	24	static
+../Core/Src/tasks.c:79:6:resetPressed	24	static
+../Core/Src/tasks.c:92:6:processInput	88	static

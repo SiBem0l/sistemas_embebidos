@@ -1,0 +1,6 @@
+../Core/Src/comunication.c:5:14:comunication_new	56	static
+../Core/Src/comunication.c:11:6:comunication_ready	24	static
+../Core/Src/comunication.c:17:6:comunication_send	24	static
+../Core/Src/comunication.c:23:6:comunication_clear_buffer	16	static
+../Core/Src/comunication.c:28:6:comunication_store_byte	16	static
+../Core/Src/comunication.c:33:7:comunication_get_data	16	static

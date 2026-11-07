@@ -1,0 +1,2 @@
+../Core/Src/digit.c:3:7:digit_new	96	static
+../Core/Src/digit.c:17:6:digit_write	32	static

@@ -1,0 +1,4 @@
+../Core/Src/comunication.c:4:14:comunication_new	1
+../Core/Src/comunication.c:13:6:comunication_ready	1
+../Core/Src/comunication.c:19:6:comunication_send	1
+../Core/Src/comunication.c:24:6:comunication_store_byte_isr	5

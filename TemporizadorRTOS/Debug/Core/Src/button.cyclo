@@ -1,0 +1,2 @@
+../Core/Src/button.c:3:8:button_new	1
+../Core/Src/button.c:10:6:button_check_pressed	2

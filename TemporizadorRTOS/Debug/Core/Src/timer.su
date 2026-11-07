@@ -1,0 +1,14 @@
+../Core/Src/timer.c:4:7:timer_new	24	static
+../Core/Src/timer.c:9:6:timer_set	16	static
+../Core/Src/timer.c:16:6:timer_start	16	static
+../Core/Src/timer.c:22:6:timer_reset	16	static
+../Core/Src/timer.c:29:6:timer_pause	16	static
+../Core/Src/timer.c:34:6:timer_is_counting	16	static
+../Core/Src/timer.c:39:6:timer_is_finished	16	static
+../Core/Src/timer.c:44:6:timer_add	16	static
+../Core/Src/timer.c:49:6:timer_substract	16	static
+../Core/Src/timer.c:66:7:timer_get_digit	24	static
+../Core/Src/timer.c:79:15:timer_get_seconds	16	static
+../Core/Src/timer.c:84:15:timer_get_minutes	24	static
+../Core/Src/timer.c:91:7:timer_get_minutes_digit	24	static
+../Core/Src/timer.c:104:7:timer_get_seconds_digit	24	static
